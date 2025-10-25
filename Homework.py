@@ -1,8 +1,4 @@
 def fun(n, m):
-    return n*m
-print(fun(0.4, -5))
-
-def fun(n, m):
     sum=0
     for i in range(int(n)):      
         sum+=n*m  
